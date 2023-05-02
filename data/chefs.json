@@ -2,7 +2,7 @@
     "chefs": [
       {
         "id": 1,
-        "picture": "https://example.com/chef1.jpg",
+        "picture": "https://i.ibb.co/RjXxdGq/jacquespepin.webp",
         "name": "Jacques Pépin",
         "experience": 60,
         "num_recipes": 1500,
@@ -31,7 +31,7 @@
       },
       {
         "id": 2,
-        "picture": "https://example.com/chef2.jpg",
+        "picture": "https://i.ibb.co/jrbR8jD/Veg-News-Chef-Alain-Ducasse-Spoon.jpg",
         "name": "Alain Ducasse",
         "experience": 40,
         "num_recipes": 1200,
@@ -60,8 +60,8 @@
       },
       {
         "id": 3,
-        "picture": "https://example.com/chef6.jpg",
-        "name": "Anne-Sophie Pic",
+        "picture": "https://i.ibb.co/tBPZTgZ/anne-sophie-pic-hublot-ambassador-l-1-0.jpg",
+        "name": "Anne-Sophie",
         "experience": 30,
         "num_recipes": 400,
         "likes": 12000,
@@ -89,7 +89,7 @@
         },
         {
             "id": 4,
-            "picture": "https://www.example.com/chef7.jpg",
+            "picture": "https://i.ibb.co/BLfrgfb/istockphoto-1389857295-170667a.jpg",
             "name": "Sophie Dupont",
             "experience": 20,
             "num_recipes": 78,
@@ -135,7 +135,7 @@
         },
         {
             "id": 5,
-            "picture": "https://example.com/chef1.jpg",
+            "picture": "https://i.ibb.co/Fsdx7LZ/741897e8-21ca-499d-9d1c-3c68597ed178-2060x1502.webp",
             "name": "Marco Pierre White",
             "experience": 35,
             "num_recipes": 120,
@@ -183,7 +183,7 @@
         },
         {
             "id": 6,
-            "picture": "https://example.com/chef2_picture.jpg",
+            "picture": "https://i.ibb.co/BNFbZmZ/cook-foreman-kitchen-dishes-wallpaper-preview.jpg",
             "name": "Julien Dupont",
             "experience": 15,
             "num_recipes": 7,
@@ -211,5 +211,5 @@
               ]
             }
 
-    ]
+        ]
   }  
