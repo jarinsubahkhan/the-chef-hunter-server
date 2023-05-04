@@ -11,19 +11,19 @@
         "recipes": [
           {
             "recipe_name": "Coq au Vin",
-            "ingredients": ["chicken", "bacon","onion","carrot", "garlic"],
+            "ingredients": "chicken, bacon, onion, carrot, garlic",
             "cooking_method": "1. Brown chicken and bacon in a Dutch oven. 2. Saute onion, carrot, and garlic. 3. Return chicken and bacon to the pot, add red wine and chicken stock, and simmer. 4. Add mushrooms and pearl onions, and cook until tender. 5. Serve hot.",
             "rating": 4.8
           },
           {
             "recipe_name": "Ratatouille",
-            "ingredients": ["eggplant", "zucchini", "yellow squash", "bell pepper", "tomatoes"],
+            "ingredients": "eggplant, zucchini, yellow squash, bell pepper, tomatoes",
             "cooking_method": "1. Roast eggplant, zucchini, yellow squash, and bell pepper. 2. Make tomato sauce with onions, garlic, and canned tomatoes. 3. Layer vegetables and tomato sauce in a baking dish. 4. Bake in the oven until tender. 5. Serve hot.",
             "rating": 4.5
           },
           {
             "recipe_name": "Crème Brûlée",
-            "ingredients": ["heavy cream", "sugar", "egg yolks", "vanilla extract", "brown sugar"],
+            "ingredients": "heavy cream, sugar, egg yolks, vanilla extract, brown sugar",
             "cooking_method": "1. Heat cream, sugar, and vanilla in a saucepan. 2. Whisk egg yolks in a separate bowl. 3. Slowly pour hot cream into egg yolks, whisking constantly. 4. Strain mixture and pour into ramekins. 5. Bake in a water bath until set. 6. Sprinkle brown sugar on top and broil until caramelized. 7. Serve chilled.",
             "rating": 4.9
           }
@@ -40,19 +40,19 @@
         "recipes": [
           {
             "recipe_name": "Sole Meunière",
-            "ingredients": ["sole fillets", "flour", "butter", "lemon juice", "parsley"],
+            "ingredients": "sole fillets, flour, butter, lemon juice, parsley",
             "cooking_method": "1. Dredge sole fillets in flour. 2. Heat butter in a skillet until brown. 3. Add fillets and cook until golden brown. 4. Add lemon juice and parsley. 5. Serve hot.",
             "rating": 4.7
           },
           {
             "recipe_name": "Potato Gratin",
-            "ingredients": ["potatoes", "heavy cream", "garlic", "gruyere cheese"],
+            "ingredients": "potatoes, heavy cream, garlic, gruyere cheese",
             "cooking_method": "1. Preheat oven to 375°F. 2. Peel and thinly slice potatoes. 3. Simmer sliced potatoes in a mixture of cream and garlic. 4. Layer potato mixture and grated cheese in a baking dish. 5. Bake in the oven until tender and golden brown. 6. Serve hot.",
             "rating": 4.6
           },
           {
             "recipe_name": "Chocolate Mousse",
-            "ingredients": ["dark chocolate", "egg yolks", "sugar", "whipping cream", "vanilla extract"],
+            "ingredients": "dark chocolate, egg yolks, sugar, whipping cream, vanilla extract",
             "cooking_method": "1. Melt chocolate in a double boiler. 2. In a separate bowl, beat egg yolks and sugar until light and fluffy. 3. Fold melted chocolate into egg mixture. 4. Whip cream and vanilla until stiff peaks form. 5. Gently fold whipped cream into chocolate mixture. 6. Chill for at least 2 hours. 7. Serve cold.",
             "rating": 4.8
           }
@@ -69,19 +69,19 @@
         "recipes": [
           {
             "recipe_name": "Chartreuse of Squab",
-            "ingredients": ["squab", "foie gras", "spinach", "truffle", "puff pastry"],
+            "ingredients": "squab, foie gras, spinach, truffle, puff pastry",
             "cooking_method": "1. Debone the squab and stuff with foie gras, spinach, and truffle. 2. Roll the squab in puff pastry. 3. Bake in the oven until golden brown. 4. Serve hot.",
             "rating": 4.9
           },
           {
             "recipe_name": "Miso-Marinated Cod",
-            "ingredients": ["cod fillets", "miso paste", "sugar", "soy sauce", "sake"],
+            "ingredients": "cod fillets, miso paste, sugar, soy sauce, sake",
             "cooking_method": "1. Mix miso paste, sugar, soy sauce, and sake. 2. Coat cod fillets with the marinade. 3. Marinate for at least 30 minutes. 4. Grill the fillets until cooked through. 5. Serve hot.",
             "rating": 4.5
           },
           {
             "recipe_name": "Mango and Passion Fruit Sorbet",
-            "ingredients": ["mango", "passion fruit", "sugar", "water", "lemon juice"],
+            "ingredients": "mango, passion fruit, sugar, water, lemon juice",
             "cooking_method": "1. Blend mango and passion fruit together. 2. Make a simple syrup by boiling sugar and water together. 3. Add lemon juice to the syrup. 4. Mix fruit puree and simple syrup together. 5. Churn the mixture in an ice cream maker. 6. Freeze for at least 2 hours. 7. Serve cold.",
             "rating": 4.6
           }
@@ -98,36 +98,20 @@
             "recipes": [
                 {
                     "recipe_name": "Coq au Vin",
-                    "ingredients": [
-                        "chicken",
-                        "red wine",
-                        " chicken stock",
-                        "bacon",
-                        " onions"
-                    ],
+                    "ingredients": 
+                        "chicken, red wine, chicken stock,bacon, onions",
                     "cooking_method": "1. Preheat oven to 350°F. 2. Season chicken with salt and pepper. 3. In a large Dutch oven, cook bacon over medium heat until crispy. 4. Remove bacon and set aside. 5. In the same Dutch oven, brown chicken on both sides. 6. Remove chicken and set aside. 7. Add onions and cook until softened. 8. Add garlic and cook for another minute. 9. Add wine and chicken stock. 10. Return chicken and bacon to the Dutch oven. 11. Cover and bake in the oven for 1 hour. 12. Remove cover and bake for another 30 minutes. 13. Serve hot.",
                     "rating": 4.8
                 },
                 {
                     "recipe_name": "Ratatouille",
-                    "ingredients": [
-                        "onion",
-                        " red pepper",
-                        "yellow pepper",
-                        "zucchinis",
-                        "tomatoes"
-                    ],
+                    "ingredients": "onion,red pepper,yellow pepper,zucchinis,tomatoes",
                     "cooking_method": "1. Heat olive oil in a large skillet over medium heat. 2. Add onions and peppers, cook until soft. 3. Add zucchinis and tomatoes. 4. Cook until vegetables are tender. 5. Serve hot.",
                     "rating": 4.5
                 },
                 {
                     "recipe_name": "Tarte Tatin",
-                    "ingredients": [
-                        "apples",
-                        "sugar",
-                        "butter",
-                        "puff pastry"
-                    ],
+                    "ingredients": "apples, sugar,butter,puff pastry",
                     "cooking_method": "1. Preheat oven to 375°F. 2. In a cast iron skillet, melt butter over medium heat. 3. Add sugar and cook until caramelized. 4. Add apples and cook until softened. 5. Remove skillet from heat. 6. Place puff pastry over the apples. 7. Bake in the oven for 30-35 minutes. 8. Remove from the oven and let it cool. 9. Invert onto a plate. 10. Serve warm.",
                     "rating": 4.9
                 }
@@ -144,38 +128,19 @@
             "recipes": [
                 {
                     "recipe_name": "Roast Chicken",
-                    "ingredients": [
-                        "chicken",
-                        " olive oil",
-                        "lemon",
-                        "garlic",
-                        "salt",
-                        "black pepper"
-                    ],
+                    "ingredients": "chicken,olive oil,lemon,garlic,salt,black pepper",
                     "cooking_method": "Preheat oven to 425°F. Mix olive oil, lemon juice, garlic, salt, and pepper. Rub mixture all over chicken. Roast chicken for 1 hour or until internal temperature reaches 165°F.",
                     "rating": 4.8
                 },
                 {
                     "recipe_name": "Garlic Mashed Potatoes",
-                    "ingredients": [
-                        "potatoes",
-                        "milk",
-                        "garlic",
-                        "butter",
-                        "Salt and pepper to taste"
-                    ],
+                    "ingredients": "potatoes,milk,garlic,butter,Salt and pepper to taste",
                     "cooking_method": "Boil potatoes until tender. Drain and mash with milk, garlic, and butter. Season with salt and pepper to taste.",
                     "rating": 4.5
                 },
                 {
                     "recipe_name": "Tiramisu",
-                    "ingredients": [
-                        "heavy cream",
-                        "sugar",
-                        "mascarpone cheese",
-                        "brewed espresso",
-                        "ladyfingers"
-                    ],
+                    "ingredients": "heavy cream,sugar,mascarpone cheese,brewed espresso,ladyfingers",
                     "cooking_method": "Whip heavy cream and sugar until stiff peaks form. Fold in mascarpone cheese. Dip ladyfingers in espresso and layer in a dish. Spread mascarpone mixture on top. Repeat layers. Chill for at least 2 hours.",
                     "rating": 4.7
                 }
